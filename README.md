@@ -1,7 +1,7 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/ednaldoCS/medicenter-template/pull/73 -->
 <a name="readme-top"></a>
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** Thanks for checking out the medicenter-template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
@@ -83,7 +83,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Large devices][product-screenshot]]('./assets/images/LargeDevice.png')
+### Large Devices
+<img src='assets/images/LargeDevice.png'/>
+
+### Small Devices
+<img src='assets/images/smallDevice.png'/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,8 +97,8 @@
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![HTML][html]][https://www.w3schools.com/html/]
-* [![CSS][css]][https://www.w3schools.com/css/]
+* [HTML](https://www.w3schools.com/html/)
+* [CSS]9 (https://www.w3schools.com/css/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,7 +184,7 @@ Distributed under the MIT License.
 ## Contact
 [Ednaldo Cavalcante](https://www.linkedin.com/in/ednaldo-cavalcante-3415161ab/)
 
-Project Link: [https://github.com/ednaldoCS/medicenter-template](https://github.com/ednaldoCS/medicenter-template)
+Project Link:(https://github.com/ednaldoCS/medicenter-template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,16 +210,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ednaldoCS/medicenter-template.svg?style=for-the-badge
+[contributors-url]: https://github.com/ednaldo/medicenter-template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ednaldoCS/medicenter-template.svg?style=for-the-badge
+[forks-url]: https://github.com/ednaldoCS/medicenter-template/network/members
+[stars-shield]: https://img.shields.io/github/stars/ednaldoCS/medicenter-template.svg?style=for-the-badge
+[stars-url]: https://github.com/ednaldoCS/medicenter-template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ednaldoCS/medicenter-template.svg?style=for-the-badge
+[issues-url]: https://github.com/ednaldoCS/medicenter-template/issues
+[license-shield]: https://img.shields.io/github/license/ednaldoCS/medicenter-template.svg?style=for-the-badge
+[license-url]: https://github.com/ednaldoCS/medicenter-template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ednaldo-cavalcante-3415161ab
 [product-screenshot]: images/screenshot.png
