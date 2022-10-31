@@ -26,7 +26,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
+ 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -184,7 +184,7 @@ Distributed under the MIT License.
 ## Contact
 [Ednaldo Cavalcante](https://www.linkedin.com/in/ednaldo-cavalcante-3415161ab/)
 
-Project Link:(https://github.com/ednaldoCS/medicenter-template)
+[Project Link](https://github.com/ednaldoCS/medicenter-template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
