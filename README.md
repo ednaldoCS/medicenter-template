@@ -22,7 +22,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+<!-- [![MIT License][license-shield]][license-url] -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ednaldoCS/medicenter-template">
-    <img src="./assets/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./assets/images/logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Medicenter-Home Page - Template</h3>
@@ -42,7 +42,7 @@
     <a href="https://github.com/ednaldoCS/medicenter-template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ednaldoCS/medicenter-template">View Demo</a>
+    <a href="https://ednaldocs.github.io/medicenter-template/ ">View Demo</a>
     ·
     <a href="https://github.com/ednaldoCS/medicenter-template/issues">Report Bug</a>
     ·
@@ -82,6 +82,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<p>
+  Full responsive web site using Flexbox
+</p>
 
 ### Large Devices
 <img src='assets/images/LargeDevice.png'/>
@@ -98,7 +101,7 @@
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [HTML](https://www.w3schools.com/html/)
-* [CSS]9 (https://www.w3schools.com/css/)
+* [CSS](https://www.w3schools.com/css/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,13 +109,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
 * Code editor
 * Browser
 
@@ -142,10 +139,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Home page 
+- [x] Home page  
 - [x] Responsive
 - [ ] Contact page
 - [ ] About page
+- [ ] News page
+- [ ] More page
+- [ ] Dinamic website
 
 <!-- See the [open issues](https://github.com/ednaldoCS/medicenter-template)
  -->
